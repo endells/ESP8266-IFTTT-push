@@ -17,4 +17,4 @@ Pin 5 TXD program mode connect to RXD FTDI USB.<br />
 Pin 6 CH_PD connect to 3.3volt MAX!!.<br />
 Pin 7 Reset not used in this project.<br />
 Pin 8 VCC 3.3volt MAX!!.<br /><br />
-<img src="http://6thlabel.co/Apps/GitHub/ESP-IFTTT-button-1.png" alt="ESP8266"><br />
+<img src="http://6thlabel.com/Apps/GitHub/ESP-IFTTT-button-1.png" alt="ESP8266"><br />
